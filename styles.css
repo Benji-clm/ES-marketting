@@ -297,14 +297,14 @@ body {
 /* Features Section */
 .features-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
   margin-top: 3rem;
 }
 
 .feature-card {
   background-color: var(--color-bg-card);
-  padding: 2.5rem;
+  padding: 2rem;
   border-radius: 12px;
   border: none;
   box-shadow: var(--shadow-sm);
